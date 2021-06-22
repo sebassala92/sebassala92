@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sebassala92
 - 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/sebastian-salazar-3b80251a4/
 
 <!---
