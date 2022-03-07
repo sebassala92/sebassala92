@@ -1,2 +1,2 @@
 - Hi, I’m Sebastian Salazar
-- Data science and Back End developer
+- Data Science and Back End developer
