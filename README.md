@@ -1,2 +1,2 @@
-- Hi, I’m Sebastian Salazar
-- Data Science and Software Developer
+- Hello! my name is Sebastian Salazar
+- Software Developer & Aeronautical Engineer
